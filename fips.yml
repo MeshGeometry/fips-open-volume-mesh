@@ -1,0 +1,10 @@
+#
+# fips-open-volume-mesh
+#
+---
+exports:
+    header-dirs: 
+      - open-volume-mesh
+    modules:
+      open-volume-mesh : .
+
