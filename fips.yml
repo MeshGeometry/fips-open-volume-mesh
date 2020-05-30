@@ -4,7 +4,7 @@
 ---
 exports:
     header-dirs: 
-      - open-volume-mesh
+      - OpenVolumeMesh
     modules:
-      open-volume-mesh : .
+      OpenVolumeMesh : .
 

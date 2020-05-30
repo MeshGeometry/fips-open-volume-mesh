@@ -10,7 +10,7 @@ if ((FIPS_MACOS OR FIPS_WINDOWS OR FIPS_LINUX) AND NOT (FIPS_RASPBERRYPI OR FIPS
 
 # not sure about this
 
-add_subdirectory(open-volume-mesh/open-volume-mesh)
+add_subdirectory(OpenVolumeMesh/OpenVolumeMesh)
 
 endif()
 
